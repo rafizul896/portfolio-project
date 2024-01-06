@@ -58,6 +58,7 @@ nav a {
     background-color: #FFF8F3;
     color: #FD6E0A;
     border: 3px solid #FD6E0A;
+    margin-left: 30px;
 }
 /* icon style */
 
@@ -214,7 +215,7 @@ main {
 .resume-item {
     /* background-color: #FFF8F3; */
     padding: 15px;
-    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.15);
 
 }
 
