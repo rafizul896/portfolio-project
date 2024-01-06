@@ -54,6 +54,19 @@ nav a {
     border-radius: 5px;
 }
 
+.contact {
+    background-color: #FFF8F3;
+    color: #FD6E0A;
+    border: 3px solid #FD6E0A;
+}
+/* icon style */
+
+.fa-solid {
+    margin-right: 10px;
+
+}
+
+
 /* header style */
 
 .header {
